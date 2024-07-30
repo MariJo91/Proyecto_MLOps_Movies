@@ -2,8 +2,7 @@
 
 #         Proyecto de Machine Learning Operations (MLOps): Sistema de Recomendacion de Peliculas para Usuarios
 
-
-![globe-solid](https://github.com/user-attachments/assets/1c76f766-de13-4e9c-ba1e-d068af7e59b0)(https://proyecto-mlops-movies.onrender.com)
+[![Texto alternativo de la imagen](https://github.com/user-attachments/assets/1c76f766-de13-4e9c-ba1e-d068af7e59b0)](https://proyecto-mlops-movies.onrender.com)
 
 
 
