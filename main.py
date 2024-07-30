@@ -26,7 +26,7 @@ def presentacion():
 
     }
 
-# ejecutar uvicorn main:app --reload para cargar en el servidor
+# ejecutar uvicorn main:app --reload para cargar en el servidors
 
 
 # ________________________________________________ 1. Funcion Cantidad de Filmaciones por Mes ___________________________________________________________________________________________
