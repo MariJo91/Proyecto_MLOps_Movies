@@ -50,10 +50,6 @@ Modelo de Recomendación: Con el objetivo de proporcionar recomendaciones precis
 
 Con el objetivo de poner el modelo de recomendación a disposición de los usuarios, se desplegó como una API en la plataforma Render. Esta elección permite una fácil implementación y escalabilidad del servicio. Para automatizar el proceso de despliegue, se configuró una integración continua con GitHub, lo que garantiza que los cambios en el código se reflejen rápidamente en la API. Enlace a la Api https://proyecto-mlops-movies.onrender.com/docs
 
-## - 5. Video Explicativo
-
- Se creó un tutorial en video para guiar a los usuarios en el uso de la API. En este video se muestra cómo realizar consultas a la API y se explican los resultados obtenidos, proporcionando una introducción clara y concisa a las capacidades del modelo de recomendación. Link al video:
-
 ## - 6. Estructura del Repositorio
   
 Notebooks: Contiene los cuadernos de Jupyter / formato ipynb que documentan el proceso de ETL (Extracción, Transformación y Carga) y el análisis exploratorio de datos.
